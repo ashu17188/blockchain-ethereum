@@ -1,5 +1,4 @@
-![](https://github.com/ashu17188/blockchain-ethereum/blob/development/assets/images/ethereum.jpg | width=100)
-
+[[https://github.com/ashu17188/blockchain-ethereum/blob/development/assets/images/ethereum.jpg |width=100px]]
 ## Introduction
 
 This project involves creation, testing and deployment of Smart contracts on Ethereum blockchain. Languages/Framework/Tools: **Solidity**, **Truffle**, **Ganache**.
