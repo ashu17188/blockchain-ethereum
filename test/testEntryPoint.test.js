@@ -1,5 +1,3 @@
-const { Contract } = require("web3-eth-contract");
-
 const EntryPoint = artifacts.require("../contracts/EntryPoint.sol");
 
 require("chai").use(require("chai-as-promised")).should();

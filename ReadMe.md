@@ -45,3 +45,5 @@ truffle migrate
 
 2. Writing Truffle tests in javascript
    [https://trufflesuite.com/docs/truffle/testing/writing-tests-in-javascript]
+
+3. Solidity code samples [https://solidity-by-example.org/]
